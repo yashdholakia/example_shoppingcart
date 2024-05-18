@@ -9,7 +9,7 @@ This project implements a supermarket checkout system where items can be added t
 - Support for multiple items with different prices
 - Includes a suite of tests to verify functionality
 
-## Getting Started
+## Getting Started 
 
 ### Prerequisites
 
