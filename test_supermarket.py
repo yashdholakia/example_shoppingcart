@@ -1,9 +1,12 @@
 from supermarket import SuperMarket
+import logging
 
+LOGGER = logging.getLogger(__name__)
 
 supermarket = SuperMarket()
 
 def test_example_1():
+    LOGGER.info("blank input....")
     cart_contents = supermarket.add_to_cart("")
     total = supermarket.checkout(cart_contents)
     print("'' | ", total)

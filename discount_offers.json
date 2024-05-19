@@ -6,9 +6,5 @@
     "B" : {
         "qty" : 2,
         "discounted_price" : 45
-    },
-    "C" : {
-        "qty" : 2,
-        "discounted_price" : 30
     }
 }
